@@ -2,12 +2,12 @@
 
 This repository was created for complimetary material for the article
 
-"Title"
-2025
-Rynoson, Marieke
-Ma Lu, Silvia
-Munkhammar, Joakim
-Campana, Pietro Elia
+Insert proper citation later:
+"Title", 2025
+Rynoson, Marieke;
+Ma Lu, Silvia;
+Munkhammar, Joakim;
+Campana, Pietro Elia;
 doi:
 
 It includes additional results which were not included in the article to to spatial constraints, 
