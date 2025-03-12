@@ -1,0 +1,5 @@
+The example codes for the algorithm are identical, except that they use the new minute, respectively hour, coefficients of the re-parametrized Engerer2 separation model.
+The example data contains the mode that matches the data, that is "1-h" or "1-min".
+The output is given both for reverse transposition with Hay & Davies and Perez1990. 
+
+Please make sure you use the correct mode for your data and/or adapt the code for your purposes accordingly.
